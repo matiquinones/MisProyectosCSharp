@@ -1,0 +1,14 @@
+C:\Users\matty\source\repos\POS\POS\bin\Debug\net8.0\POS.exe
+C:\Users\matty\source\repos\POS\POS\bin\Debug\net8.0\POS.deps.json
+C:\Users\matty\source\repos\POS\POS\bin\Debug\net8.0\POS.runtimeconfig.json
+C:\Users\matty\source\repos\POS\POS\bin\Debug\net8.0\POS.dll
+C:\Users\matty\source\repos\POS\POS\bin\Debug\net8.0\POS.pdb
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.AssemblyInfo.cs
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.dll
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\refint\POS.dll
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.pdb
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\POS.genruntimeconfig.cache
+C:\Users\matty\source\repos\POS\POS\obj\Debug\net8.0\ref\POS.dll
