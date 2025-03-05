@@ -1,0 +1,14 @@
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\bin\Debug\net8.0\PruebaInventarioTienda.exe
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\bin\Debug\net8.0\PruebaInventarioTienda.deps.json
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\bin\Debug\net8.0\PruebaInventarioTienda.runtimeconfig.json
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\bin\Debug\net8.0\PruebaInventarioTienda.dll
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\bin\Debug\net8.0\PruebaInventarioTienda.pdb
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.AssemblyInfo.cs
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.dll
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\refint\PruebaInventarioTienda.dll
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.pdb
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\PruebaInventarioTienda.genruntimeconfig.cache
+C:\Users\matty\source\repos\PruebaInventarioTienda\PruebaInventarioTienda\obj\Debug\net8.0\ref\PruebaInventarioTienda.dll
