@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matty\\source\\repos\\EstructurasClaseCondicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24260FB9-975C-4873-B85C-7A88AA8FB3FD}|EstructurasClaseCondicionales\\EstructurasClaseCondicionales.csproj|c:\\users\\matty\\source\\repos\\estructurasclasecondicionales\\estructurasclasecondicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24260FB9-975C-4873-B85C-7A88AA8FB3FD}|EstructurasClaseCondicionales\\EstructurasClaseCondicionales.csproj|solutionrelative:estructurasclasecondicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matty\\source\\repos\\EstructurasClaseCondicionales\\EstructurasClaseCondicionales\\Program.cs",
+              "RelativeDocumentMoniker": "EstructurasClaseCondicionales\\Program.cs",
+              "ToolTip": "C:\\Users\\matty\\source\\repos\\EstructurasClaseCondicionales\\EstructurasClaseCondicionales\\Program.cs",
+              "RelativeToolTip": "EstructurasClaseCondicionales\\Program.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAowPcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:09:46.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

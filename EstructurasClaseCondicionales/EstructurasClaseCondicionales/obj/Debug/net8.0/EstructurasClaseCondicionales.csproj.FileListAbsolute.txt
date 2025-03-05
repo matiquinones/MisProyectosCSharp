@@ -1,0 +1,14 @@
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\bin\Debug\net8.0\EstructurasClaseCondicionales.exe
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\bin\Debug\net8.0\EstructurasClaseCondicionales.deps.json
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\bin\Debug\net8.0\EstructurasClaseCondicionales.runtimeconfig.json
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\bin\Debug\net8.0\EstructurasClaseCondicionales.dll
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\bin\Debug\net8.0\EstructurasClaseCondicionales.pdb
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.AssemblyInfo.cs
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.dll
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\refint\EstructurasClaseCondicionales.dll
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.pdb
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\EstructurasClaseCondicionales.genruntimeconfig.cache
+C:\Users\matty\source\repos\EstructurasClaseCondicionales\EstructurasClaseCondicionales\obj\Debug\net8.0\ref\EstructurasClaseCondicionales.dll
