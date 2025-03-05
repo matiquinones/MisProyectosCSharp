@@ -1,0 +1,14 @@
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\net8.0\CalculadoraDescuentos.exe
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\net8.0\CalculadoraDescuentos.deps.json
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\net8.0\CalculadoraDescuentos.runtimeconfig.json
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\net8.0\CalculadoraDescuentos.dll
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\bin\Debug\net8.0\CalculadoraDescuentos.pdb
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.AssemblyInfo.cs
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.dll
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\refint\CalculadoraDescuentos.dll
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.pdb
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\CalculadoraDescuentos.genruntimeconfig.cache
+C:\Users\matty\source\repos\CalculadoraDescuentos\CalculadoraDescuentos\obj\Debug\net8.0\ref\CalculadoraDescuentos.dll
