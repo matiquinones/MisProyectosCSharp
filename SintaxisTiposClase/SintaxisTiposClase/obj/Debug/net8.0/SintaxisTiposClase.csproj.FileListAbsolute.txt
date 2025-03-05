@@ -1,0 +1,14 @@
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\bin\Debug\net8.0\SintaxisTiposClase.exe
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\bin\Debug\net8.0\SintaxisTiposClase.deps.json
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\bin\Debug\net8.0\SintaxisTiposClase.runtimeconfig.json
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\bin\Debug\net8.0\SintaxisTiposClase.dll
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\bin\Debug\net8.0\SintaxisTiposClase.pdb
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.AssemblyInfo.cs
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.dll
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\refint\SintaxisTiposClase.dll
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.pdb
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\SintaxisTiposClase.genruntimeconfig.cache
+C:\Users\matty\source\repos\SintaxisTiposClase\SintaxisTiposClase\obj\Debug\net8.0\ref\SintaxisTiposClase.dll
